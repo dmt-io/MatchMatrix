@@ -39,8 +39,7 @@ We're at an exciting stage of development and would love for you to be a part of
 (Stay updated with our [Roadmap](/docs/roadmap.md).)
 
 ## Connect with MatchMatrix
-- **Support and Queries**: Reach out to us at dimitriklink@gmail.com.
-- **Community Discussions**: Join our [Discord Community](https://discord.gg/matchmatrix) to connect and collaborate.
+- **Support and Queries**: Reach out to me.
 
 ## License
 MatchMatrix is proud to be an open-source project under the MIT License. [View License](LICENSE)
